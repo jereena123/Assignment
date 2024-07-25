@@ -12,8 +12,8 @@ namespace ConsoleAppone
         {
             //initialize attempt,username,password
             int attempt = 0;
-            string username;
-            string password;
+            string username="user";
+            string password="pass";
             //while loop 
             while (attempt < 3)
             {
